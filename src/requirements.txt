@@ -1,0 +1,5 @@
+# Bibliotecas utilizadas (já incluídas no Python):
+# - threading: Para criação e gerenciamento de threads
+# - time: Para delays e medição de tempo
+# - random: Para gerar tempos aleatórios de pensamento e alimentação
+
